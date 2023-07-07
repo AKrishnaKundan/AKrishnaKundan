@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AKrishnaKundan/AKrishnaKundan/assets/93312488/77cd20a6-fe3e-442a-9fb3-5cb8cb23569e)]
+![MasterHead](https://github.com/AKrishnaKundan/AKrishnaKundan/assets/93312488/77cd20a6-fe3e-442a-9fb3-5cb8cb23569e)
 
 <h1 align="center">Hi 👋, I'm Krishna Kundan Aratikatla</h1>
 <h3 align="center">Web developer(MERN Stack) | Coder</h3>
