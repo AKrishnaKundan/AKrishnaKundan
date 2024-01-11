@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React JS, Node JS, Express JS, JavaScript and MongoDB**
 
-- 📫 How to reach me **https://linkedin.com/in/krishna kundan aratikatla**
+- 📫 How to reach me **https://linkedin.com/in/krishna-kundan-aratikatla**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1twLzsNANTnjOJ5xECX4PmO_BzAxOKLHQ/view?usp=drive_link](https://drive.google.com/file/d/1twLzsNANTnjOJ5xECX4PmO_BzAxOKLHQ/view?usp=drive_link)
 
