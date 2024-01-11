@@ -5,17 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akrishnakundan&label=Profile%20views&color=0e75b6&style=flat" alt="akrishnakundan" /> </p>
 
-- 👨‍💻 All of my projects are available at [crio.do/learn/portfolio/a-krishnakundan/](crio.do/learn/portfolio/a-krishnakundan/)
+- 👨‍💻 All of my projects are available at [https://krishna-kundan-portfolio.netlify.app/](https://krishna-kundan-portfolio.netlify.app/)
 
-- 💬 Ask me about **React JS, Node JS, Express JS, JavaScript**
+- 💬 Ask me about **React JS, Node JS, Express JS, JavaScript and MongoDB**
 
-- 📫 How to reach me **a.krishnakundan@gmail.com**
+- 📫 How to reach me **https://linkedin.com/in/krishna kundan aratikatla**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-9O_96mX3nEu8J4YuUip9d6P3OAES5IU/view?usp=sharing](https://drive.google.com/file/d/1-9O_96mX3nEu8J4YuUip9d6P3OAES5IU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1twLzsNANTnjOJ5xECX4PmO_BzAxOKLHQ/view?usp=drive_link](https://drive.google.com/file/d/1twLzsNANTnjOJ5xECX4PmO_BzAxOKLHQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krishna kundan aratikatla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna kundan aratikatla" height="30" width="40" /></a>
+<p>Connect 1:1 here:<a href="https://topmate.io/krishnakundan_a" target="blank">Topmate</a></p>
 <a href="https://www.leetcode.com/a_krishna_kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_krishna_kundan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akrishnakundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akrishnakundan" height="30" width="40" /></a>
 </p>
