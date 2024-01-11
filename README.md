@@ -1,3 +1,6 @@
+![image](https://github.com/AKrishnaKundan/AKrishnaKundan/assets/93312488/2155332b-1f80-44dc-9d09-98c8864b5887)
+
+
 <h1 align="center">Hi 👋, I'm Krishna Kundan Aratikatla</h1>
 <h3 align="center">Budding Software Developer | 800+ DSA @ Leetcode, Code Studio | MERN stack | Backend Enthusiast | Open for collaboration</h3>
 
@@ -7,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django and Node.js**
 
-- 👯 I’m looking to collaborate on [any project in](https://github.com/AKrishnaKundan?tab=repositories)
+- 👯 I’m looking to collaborate on [any project in my repos](https://github.com/AKrishnaKundan?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [https://krishna-kundan-portfolio.netlify.app/](https://krishna-kundan-portfolio.netlify.app/)
 
